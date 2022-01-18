@@ -1,15 +1,8 @@
 # todo_with_firebase
 
-A new Flutter project.
+A new Flutter project For Task Memorization.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is a todo note keeping App where user can store his tasks in app for Later memorization. He can mark the task as complete, delete and completed task as inomplete. Flutter Slideable Package is implemented for menu options Where user can see the delete and Complets Actions at every task
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
